@@ -3,7 +3,7 @@ You need to have Node.js (Node) installed onto your computer before you can inst
 If you do not have Node installed already, you can get it from https://nodejs.org/
 
 #Install Gulp (Use 'sudo' if running on mac)
-$ sudo npm install gulp -g
+$ [sudo] npm install gulp -g
 
 #from within our project folder
 
